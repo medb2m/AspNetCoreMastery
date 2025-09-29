@@ -1,1 +1,2 @@
 2025-09-17T13:13:24.905Z | chore(auth): wire component | 6b71
+2025-09-29T09:54:58.282Z | fix(core): improve hook | 2649
