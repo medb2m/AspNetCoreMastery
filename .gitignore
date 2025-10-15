@@ -118,7 +118,8 @@ _TeamCity*
 # Visual Studio code coverage results
 *.coverage
 *.coveragexml
-
+.timebot
+timebot.log
 # NCrunch
 _NCrunch_*
 .*crunch*.local.xml
